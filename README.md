@@ -1,3 +1,3 @@
 # First
 Byjus class 09
-First calss using VS
+First class using VS
